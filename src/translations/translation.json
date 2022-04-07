@@ -1,0 +1,16 @@
+{
+    "pt-BR": {
+        "=": "igual a",
+        "+": "mais",
+        "-": "menos",
+        "*": "vezes",
+        "/": "dividido por"
+    },
+    "en-US": {
+        "=": "equals to",
+        "+": "plus",
+        "-": "minus",
+        "*": "times",
+        "/": "divided by"
+    }
+}
